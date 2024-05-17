@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
 baseurl = "https://demo.gethugothemes.com/vex/examplesite/"
-title = "Vex | hugo landing page template"
+title = "游戏卡片商店"
 theme = "vex-hugo"
 # post excert
 summarylength = "20"
@@ -82,28 +82,28 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 
 # homepage section menu
 [[Languages.en.menu.main]]
-name = "Home"
+name = "主页"
 url = "/"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "Products"
+name = "产品"
 url = "products/"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "Blog"
+name = "文章"
 url = "blog/"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "Review"
+name = "评价"
 pre = "#"
 url = "testimonial"
 weight = 4
 
 [[Languages.en.menu.main]]
-name = "Contact"
+name = "联系方式"
 url = "contact/"
 weight = 5
 
@@ -130,61 +130,62 @@ weight = 4
 
 
 ################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-# copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-
-
-###################################### Navigation english ######################################
-
-# homepage section menu
-[[Languages.fr.menu.main]]
-name = "Home"
-url = "fr/"
-weight = 1
-
-[[Languages.fr.menu.main]]
-name = "Products"
-url = "products/"
-weight = 2
-
-[[Languages.fr.menu.main]]
-name = "Blog"
-url = "blog/"
-weight = 3
-
-[[Languages.fr.menu.main]]
-name = "Review"
-pre = "#"
-url = "testimonial"
-weight = 4
-
-[[Languages.fr.menu.main]]
-name = "Contact"
-url = "contact/"
-weight = 5
-
-# footer menu
-[[Languages.fr.menu.footer]]
-name = "Blog"
-url = "blog/"
-weight = 1
-
-[[Languages.fr.menu.footer]]
-name = "Contact"
-url = "contact/"
-weight = 2
-
-[[Languages.fr.menu.footer]]
-name = "Terms & Conditions"
-url = "terms-conditions/"
-weight = 3
-
-[[Languages.fr.menu.footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
-weight = 4
+# [Languages.fr]
+# languageName = "Fr"
+# languageCode = "fr-fr"
+# contentDir = "content/french"
+# weight = 2
+# # copyright
+# copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+# 
+# 
+# ###################################### Navigation english ######################################
+# 
+# # homepage section menu
+# [[Languages.fr.menu.main]]
+# name = "Home"
+# url = "fr/"
+# weight = 1
+# 
+# [[Languages.fr.menu.main]]
+# name = "Products"
+# url = "products/"
+# weight = 2
+# 
+# [[Languages.fr.menu.main]]
+# name = "Blog"
+# url = "blog/"
+# weight = 3
+# 
+# [[Languages.fr.menu.main]]
+# name = "Review"
+# pre = "#"
+# url = "testimonial"
+# weight = 4
+# 
+# [[Languages.fr.menu.main]]
+# name = "Contact"
+# url = "contact/"
+# weight = 5
+# 
+# # footer menu
+# [[Languages.fr.menu.footer]]
+# name = "Blog"
+# url = "blog/"
+# weight = 1
+# 
+# [[Languages.fr.menu.footer]]
+# name = "Contact"
+# url = "contact/"
+# weight = 2
+# 
+# [[Languages.fr.menu.footer]]
+# name = "Terms & Conditions"
+# url = "terms-conditions/"
+# weight = 3
+# 
+# [[Languages.fr.menu.footer]]
+# name = "Privacy Policy"
+# url = "privacy-policy/"
+# weight = 4
+# 

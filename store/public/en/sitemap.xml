@@ -209,18 +209,6 @@
                 href="http://localhost:1313/vex/examplesite/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/vex/examplesite/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/vex/examplesite/fr/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/vex/examplesite/contact/"
-                />
-  </url><url>
     <loc>http://localhost:1313/vex/examplesite/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -255,6 +243,18 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/vex/examplesite/terms-conditions/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/vex/examplesite/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/vex/examplesite/fr/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/vex/examplesite/contact/"
                 />
   </url>
 </urlset>

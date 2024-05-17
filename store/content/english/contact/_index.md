@@ -1,25 +1,25 @@
 ---
-title: "Contact"
-description : "this is a meta description"
+title: "联系方式"
+description : "厦门"
 
 office:
-  title : "Central Office"
+  title : "厦门"
   mobile : "0124857985320"
-  email : "demo@email.com"
-  location : "Dhaka, Bangladedsh"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
+  email : "pgoxin@gmail.com"
+  location : "厦门"
+  content : "专业卖卡片"
 
 # opennig hour
 opennig_hour:
-  title : "Opening Hours"
+  title : "营业时间"
   day_time:
-    - "Monday: 9:00 – 19:00"
-    - "Tuesday: 9:00 – 19:00"
-    - "Wednesday: 9:00 – 19:00"
-    - "Thursday: 9:00 – 19:00"
-    - "Friday: 9:00 – 19:00"
-    - "Saturday: 9:00 – 19:00"
-    - "sunday: 9:00 – 19:00"
+    - "周一: 9:00 – 19:00"
+    - "周二: 9:00 – 19:00"
+    - "周三: 9:00 – 19:00"
+    - "周四: 9:00 – 19:00"
+    - "周五: 9:00 – 19:00"
+    - "周六: 9:00 – 19:00"
+    - "周日: 9:00 – 19:00"
     
 draft: false
 ---

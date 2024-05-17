@@ -1,33 +1,32 @@
 ---
-title: "Terms & Conditions"
-description : "this is a meta description"
+title: "条款与条件"
+description: "By DogBeePark"
 draft: false
 ---
 
-Please read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
+请阅读以下条款与条件，虽然其中包含了许多法律内容，但我们的宗旨是始终照顾到我们双方，无论是作为客户还是卖家。我们加入了许多条款来合法地保护自己，但如果您有任何问题，请随时通过contact@dogbeepark.com给我们发送电子邮件，我们将尽力以公平和及时的方式解决问题。
 
-### Product Buy & delivery policy
+### 产品购买与交付政策
 
-1)All payments are processed securely through PayPal or Stripe. Themefisher does not directly process payments through the website. So any kind of Problem if you face Themefisher will Not Take any responsibility.
+1. 所有支付均通过PayPal或Stripe安全处理。DogBeePark不会直接通过网站处理支付。因此，如果您遇到任何问题，DogBeePark不承担任何责任。
 
-### Product Buy & delivery policy
+### 退款政策
 
-Please read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
+1. 由于DogBeePark提供的是无形且不可撤销的数字产品，购买后我们不提供退款。如果您的数字下载产品存在问题或下载过程中遇到任何困难，我们将解决该问题。
+2. 您有24小时的时间来检查您的购买并确定其是否符合DogBeePark的预期。如果您希望退款，DogBeePark将向您发放退款，并要求您说明产品未能符合预期的原因。
+3. 当您进行符合条件的退货时，我们将退还全款，减去手续费。退款通常在我们收到您的申请并确认其符合退货条件后的3-5个工作日内处理。退款将应用于原支付方式。
 
-### Refund Policy
+### 支持政策
 
-1) Since Themefisher is offering non-tangible and irrevocable digital products, we do NOT issue refunds after a purchase is made. If there is a problem with one of the digital download products or if you experience any difficulty with the download, we will fix the problem.
-2) You have 24 hours to inspect your purchase and to determine if it does not meet with the expectations laid forth by The Themefisher. In the event that you wish to receive a refund, Themefisher will issue you a refund and ask you to specify how the product failed to live up to expectations.
-3) When you make a qualifying return, We’ll credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
+1. 由于DogBeePark提供的是无形且不可撤销的数字产品，购买后我们不提供退款。如果您的数字下载产品存在问题或下载过程中遇到任何困难，我们将解决该问题。
+2. 您有24小时的时间来检查您的购买并确定其是否符合DogBeePark的预期。如果您希望退款，DogBeePark将向您发放退款，并要求您说明产品未能符合预期的原因。
+3. 当您进行符合条件的退货时，我们将退还全款，减去手续费。退款通常在我们收到您的申请并确认其符合退货条件后的3-5个工作日内处理。退款将应用于原支付方式。
 
-### Support Policy
-1) Since Themefisher is offering non-tangible and irrevocable digital products, we do NOT issue refunds after a purchase is made. If there is a problem with one of the digital download products or if you experience any difficulty with the download, we will fix the problem.
-2) You have 24 hours to inspect your purchase and to determine if it does not meet with the expectations laid forth by The Themefisher. In the event that you wish to receive a refund, Themefisher will issue you a refund and ask you to specify how the product failed to live up to expectations.
-3) When you make a qualifying return, We’ll credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
+### 我们提供的支持:
 
-### Why We Support:
+1. 支持涵盖游戏卡片设置的帮助和指导
+2. 帮助使用功能和选项
+3. 错误修复 - 如果您发现游戏卡片中存在错误，我们将修复它
+4. 功能无法按广告宣传工作
 
-1. Support covers getting up and help in theme setup
-2. Help using features and theme options
-3. Bug fixes – if you discovered a bug in the theme/Template we will fix it
-4. Functionality which does not work as advertised
+有关购买和使用游戏卡片的详细信息，请随时联系我们。
