@@ -1,17 +1,17 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Believe in Technology, Make the change"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
+  title: "卡牌游戏"
+  content: "卡牌游戏又被称为纸牌游戏，属于桌面游戏的一种。关于卡牌游戏的起源有多种说法，比较被中外学者所普遍接受的观点就是现代卡牌游戏起源于我国唐代一种名叫“叶子戏”的游戏纸牌。"
   image: "images/watch.png"
   button:
     enable: true
-    label: "Browse All Products"
+    label: "查看所有产品"
     link: "products/"
 
 ############################# Feature ############################
 features:
-  enable: true
+  enable: false
   title: "Our Core Features"
   image: "images/watch-2.png"
 
@@ -52,26 +52,21 @@ features:
 ############################# promo ############################
 promo:
   enable: true
-  image: "images/watch.png"
-  title: "Designed by professional , the benefit for creative gigs"
+  image: "images/showcase/showcase-8.png"
+  title: "狼人杀"
   content:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
-    nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
-    <br><br>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
+    "狼人杀是一款多人参与的，通过语言描述推动、较量口才和分析判断能力的策略类桌面游戏。"
 
 ############################# About Product #######################
 about_product:
   enable: true
-  title: "Why Choose Apple Watch"
+  title: "为什么选择我们"
   items:
     # about product item loop
     - image: "images/showcase/showcase-4.png"
-      title: "Lorem ipsum dolor sit amet."
+      title: "我们制造的卡牌游戏"
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-        quas, quo harum deserunt consequatur cumque!"
+        "纸牌游戏可用于教育资源或娱乐用途。教育资源一般是一些学习抽认卡、逻辑游戏、配对游戏等，有助于孩子的大脑发育和思维逻辑。"
       button:
         enable: false
         label: "Check Features"
@@ -79,11 +74,9 @@ about_product:
 
     # about product item loop
     - image: "images/showcase/showcase-3.png"
-      title: "Lorem ipsum dolor sit amet."
+      title: "卡牌游戏制造的类型"
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-        quas, quo harum deserunt consequatur cumque!"
+        "纸牌游戏的趣味性和娱乐性以及简单的产品格式使其深受世界各地儿童和成人的欢迎。几十年来，我们为我们的帐户印刷了大量纸牌游戏。请找到这个纸牌游戏案例。"
       button:
         enable: false
         label: "Check Features"
@@ -92,11 +85,11 @@ about_product:
 #################################### Products ########################
 products:
   enable: true
-  title: "Checkout Our All Products"
+  title: "查看我们的产品"
 
 ################################## Subscription ###################
 subscription:
-  enable: true
+  enable: false
   bg_image: "images/call-to-action.jpg"
   title: "Get Product Updates"
   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
@@ -104,7 +97,7 @@ subscription:
 
 ############################## Testimonial ##########################
 testimonial:
-  enable: true
+  enable: false
   title: "Watch Review"
   testimonial_item:
     # testimonial item loop

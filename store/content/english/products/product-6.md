@@ -1,5 +1,5 @@
 ---
-title: "Realme Watch"
+title: "航海王卡牌对战"
 date: 2019-10-17T11:22:16+06:00
 images: 
   - "images/showcase/showcase-6.png"
@@ -24,4 +24,5 @@ button_link: "#"
 draft: false
 ---
 
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+是使用自己喜欢的卡牌构筑卡组进行战斗的游戏。
+通过自己喜欢的卡牌和角色探寻只属于你的战术吧!

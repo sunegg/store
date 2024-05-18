@@ -1,8 +1,8 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Believe in Technology, Make the change"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
+  title: "卡牌游戏"
+  content: "卡牌游戏又被称为纸牌游戏，属于桌面游戏的一种。关于卡牌游戏的起源有多种说法，比较被中外学者所普遍接受的观点就是现代卡牌游戏起源于我国唐代一种名叫“叶子戏”的游戏纸牌。"
   image: "images/watch.png"
   button:
     enable: true

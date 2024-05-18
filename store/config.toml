@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://demo.gethugothemes.com/vex/examplesite/"
+baseurl = "https://dogbee.netlify.app/"
 title = "游戏卡片商店"
 theme = "vex-hugo"
 # post excert
@@ -75,7 +75,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Dogbeepark"
 
 
 ###################################### Navigation english ######################################
@@ -96,11 +96,11 @@ name = "文章"
 url = "blog/"
 weight = 3
 
-[[Languages.en.menu.main]]
-name = "评价"
-pre = "#"
-url = "testimonial"
-weight = 4
+# [[Languages.en.menu.main]]
+# name = "评价"
+# pre = "#"
+# url = "testimonial"
+# weight = 4
 
 [[Languages.en.menu.main]]
 name = "联系方式"
@@ -108,25 +108,25 @@ url = "contact/"
 weight = 5
 
 # footer menu
-[[Languages.en.menu.footer]]
-name = "Blog"
-url = "blog/"
-weight = 1
+# [[Languages.en.menu.footer]]
+# name = "Blog"
+# url = "blog/"
+# weight = 1
+# 
+# [[Languages.en.menu.footer]]
+# name = "Contact"
+# url = "contact/"
+# weight = 2
 
-[[Languages.en.menu.footer]]
-name = "Contact"
-url = "contact/"
-weight = 2
-
-[[Languages.en.menu.footer]]
-name = "Terms & Conditions"
-url = "terms-conditions/"
-weight = 3
-
-[[Languages.en.menu.footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
-weight = 4
+# [[Languages.en.menu.footer]]
+# name = "隐私政策"
+# url = "terms-conditions/"
+# weight = 3
+# 
+# [[Languages.en.menu.footer]]
+# name = "隐私政策"
+# url = "privacy-policy/"
+# weight = 4
 
 
 ################################### French language #####################################

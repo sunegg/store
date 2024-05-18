@@ -1,5 +1,5 @@
 ---
-title: "Redmi Watch"
+title: "I Have The Numbers"
 date: 2019-10-17T11:22:16+06:00
 image: "images/showcase/showcase-5.png"
 images: 
@@ -25,4 +25,4 @@ button_link: "#"
 draft: false
 ---
 
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+宝可梦集换式卡牌游戏（ポケモンカードゲーム，Pokémon Trading Card Game）是以游戏《宝可梦》系列作为世界观的对战型集换式卡牌游戏

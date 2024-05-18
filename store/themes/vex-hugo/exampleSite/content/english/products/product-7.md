@@ -1,5 +1,5 @@
 ---
-title: "OnePlus Watch"
+title: "大富翁Deal"
 date: 2019-10-17T11:22:16+06:00
 images: 
   - "images/showcase/showcase-7.png"
@@ -24,4 +24,4 @@ button_link: "#"
 draft: false
 ---
 
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+乃大富翁的纸牌版游戏，于2008年首次出现。与传统大富翁最大相异之处就是终极目标不是赢取最多金钱，而是要尽快集齐三套不同颜色的物业，最先集齐三套不同颜色的物业的人就胜利；也没有“破产”这回事。
