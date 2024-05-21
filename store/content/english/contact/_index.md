@@ -4,8 +4,8 @@ description : "厦门"
 
 office:
   title : "厦门"
-  mobile : "0124857985320"
-  email : "pgoxin@gmail.com"
+  mobile : "14700079817"
+  email : "xmdogbee@163.com"
   location : "厦门"
   content : "专业卖卡片"
 
